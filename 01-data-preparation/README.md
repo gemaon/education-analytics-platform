@@ -15,7 +15,7 @@ Documentation of all data quality issues identified and transformation decisions
 Reference documentation for all 11 source data tables, including column definitions and data types.
 
 **[sample-dataset-student-enrolments.csv](sample-dataset-student-enrolments.csv)**
-Sample anonymized data demonstrating source file structure.
+Sample anonymised data demonstrating source file structure.
 
 ## Key Transformations
 
