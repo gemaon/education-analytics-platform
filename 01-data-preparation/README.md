@@ -30,4 +30,4 @@ Python | pandas | NumPy | Jupyter Notebook
 
 ---
 
-→ [View Dashboard Documentation](../02-dashboards/)
+→ [View Dashboard & Insights Documentation](../02-dashboards-and-insights/)
