@@ -28,16 +28,16 @@ Raw data contained multiple quality issues across 11 source files:
 - Inconsistent formatting (gender, year levels, class names)
 - Missing values in critical fields
 - Outliers in assessment scores
-- Mixed data types requiring standardization
+- Mixed data types requiring standardisation
 
 ### 3.2 Solution
 Implemented systematic data cleaning and transformation process:
 - **Quality validation** - Detection of duplicates, nulls, format inconsistencies
-- **Data transformation** - Standardization, imputation, outlier handling
+- **Data transformation** - Standardisation, imputation, outlier handling
 - **Documentation** - Detailed justification for each cleaning decision
 
 ### 3.3 Transformation Examples
-- Gender standardization: 7 variations → 3 consistent categories (M, F, Other)
+- Gender standardisation: 7 variations → 3 consistent categories (M, F, Other)
 - Year level formatting: Mixed alphanumeric (`one`, `1`) → Integer format
 - Assessment scores: Identified and handled outliers (>700 values removed)
 - Class identifiers: Consolidated naming (`a`, `Class_A`) → Standard format
@@ -57,7 +57,7 @@ Implemented systematic data cleaning and transformation process:
 ## 4: Phase Two, Business Intelligence Dashboards
 
 ### 4.1 Challenge
-Stakeholders needed to analyze performance across multiple dimensions:
+Stakeholders needed to analyse performance across multiple dimensions:
 - Student demographics and year levels
 - Schools and geographic regions
 - Assessment types (NAPLAN, PAT, A&E)
@@ -99,7 +99,7 @@ Designed interactive Power BI dashboards enabling:
 ## 6. Skills Demonstrated
 **Data Engineering:**
 - Data quality assessment and profiling
-- Data cleaning and standardization
+- Data cleaning and standardisation
 - Python/pandas data manipulation
 - Data validation methodology
 
@@ -107,7 +107,7 @@ Designed interactive Power BI dashboards enabling:
 - Dimensional analysis design
 - Dashboard development
 - DAX calculations
-- Stakeholder-focused visualization
+- Stakeholder-focused visualisation
 
 **Business Analysis:**
 - Requirements interpretation
@@ -118,10 +118,7 @@ Designed interactive Power BI dashboards enabling:
 ## 7. Repository Structure
 ```
 📁 01-data-preparation/    - Python cleaning scripts and notebooks
-📁 02-dashboards/          - Power BI files and documentation  
-📁 03-insights/            - Business findings and recommendations
-📁 data/                   - Sample datasets (anonymized)
-📁 documentation/          - Technical and user documentation
+📁 02-dashboards-and-insights/          - Power BI files and documentation  
 ```
 
 ---
