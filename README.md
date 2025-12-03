@@ -3,7 +3,7 @@ Data Preparation &amp; Interactive Dashboards for Educational Performance Analys
 
 ## 1. Executive Summary
 
-I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualization. My platform lets administrators  track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
+I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualisation. My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
 
 ## 2. Project Workflow
 ```
