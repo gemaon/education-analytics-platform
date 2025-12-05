@@ -1,11 +1,11 @@
 # education-analytics-platform
 Data Preparation &amp; Interactive Dashboards for Educational Performance Analysis | Python | Power BI
 
-## 1. Executive Summary
+## I. Executive Summary
 
 I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualisation. My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
 
-## 2. Project Workflow
+## II. Project Workflow
 ```
 Raw Data Sources (11 CSV files)
     ↓
@@ -20,7 +20,7 @@ Power BI Dimensional Model & Dashboards
 Interactive Analysis & Insights
 ```
 
-## 3: Phase One, Data preparation
+## III: Data preparation
 
 ### 3.1 Challenge
 Raw data contained multiple quality issues across 11 source files:
@@ -54,7 +54,7 @@ Implemented systematic data cleaning and transformation process:
 
 ---
 
-## 4: Phase Two, Business Intelligence Dashboards
+## IV: Business Intelligence Dashboards
 
 ### 4.1 Challenge
 Stakeholders needed to analyse performance across multiple dimensions:
@@ -83,7 +83,7 @@ Designed interactive Power BI dashboards enabling:
 
 ---
 
-## 5. Business Impact
+## V. Business Impact
 ### 5.1 Key Insights Generated
 - **Systemic Performance Decline:** General downward trend in test scores across all assessment types over time; decline most pronounced in remote regions
 - **Geographic Disparities:** Remote schools show significantly lower performance than urban counterparts; performance gap widening between geographic regions
@@ -96,7 +96,7 @@ Designed interactive Power BI dashboards enabling:
 - **Stakeholder Transparency & Alignment:** Dashboard promotes transparency in educational performance trends; shared understanding of priorities and challenges
 - **Actionable Insights:** Specific recommendations for surveys and stakeholder interviews, with clear prioritization; remote regions, School #2, younger year groups in disadvantaged areas
 
-## 6. Skills Demonstrated
+## VI. Skills Demonstrated
 **Data Engineering:**
 - Data quality assessment and profiling
 - Data cleaning and standardisation
