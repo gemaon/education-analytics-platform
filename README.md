@@ -5,7 +5,7 @@ Data Preparation &amp; Interactive Dashboards for Educational Performance Analys
 
 I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualisation. My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
 
-Screen captures of my interactive dashboards:
+Screen captures of my interactive dashboards (these are available as a PDF output [here](02-dashboards-and-insights/performance-dashboards.pdf)):
 ![dashboards screencap](02-dashboards-and-insights/dashboards_screencapture.png)
 
 ## II. Project Workflow
