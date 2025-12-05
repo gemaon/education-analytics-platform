@@ -79,7 +79,7 @@ Designed interactive Power BI dashboards enabling:
 
 **Technologies:** Power BI, DAX, Power Query
 
-📁 [View Dashboard Documentation](02-dashboards/)
+📁 [View Dashboard Documentation](02-dashboards-and-insights)
 
 ---
 
