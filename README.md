@@ -1,6 +1,3 @@
-# education-analytics-platform
-Data Preparation &amp; Interactive Dashboards for Educational Performance Analysis | Python | Power BI
-
 ## I. Executive Summary
 
 I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualisation. My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
