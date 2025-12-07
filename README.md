@@ -91,7 +91,7 @@ Designed interactive Power BI dashboards enabling:
 - **Intervention Priorities Identified:** School #2 requires immediate targeted support across all metrics; remote region resource gaps increasingly critical. Early intervention needed for younger students in disadvantaged locations.
 
 ### 5.2 Recommendations
-- **Root cause analysis** for system performance decline: Assess teacher availability and quality, educational resources and infrastructure, particularly in remote regions; conduct surveys and interviews with teachers, parents, and students
+- **Root cause analysis** for performance decline: assess teacher availability and quality, educational resources and infrastructure, particularly in remote regions; conduct surveys and interviews with teachers, parents, and students
 - **Targeted Resource Allocation:**
     - Direct additional funding to underperforming schools, especially School #2;
     - Prioritize remote regions for teacher recruitment and retention;
