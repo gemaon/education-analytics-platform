@@ -123,7 +123,7 @@ Designed interactive Power BI dashboards enabling:
 - Professional documentation
 - Strategic recommendations
 
-## 7. Repository Structure
+## VII. Repository Structure
 ```
 📁 01-data-preparation/                    - Python cleaning scripts and notebooks
 📁 02-dashboards-and-insights/             - Power BI files and documentation  
