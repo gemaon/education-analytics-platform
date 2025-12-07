@@ -90,7 +90,15 @@ Designed interactive Power BI dashboards enabling:
 - **Demographic Patterns:** Younger year groups in remote schools face greater performance challenges; 
 - **Intervention Priorities Identified:** School #2 requires immediate targeted support across all metrics; remote region resource gaps increasingly critical. Early intervention needed for younger students in disadvantaged locations.
 
-### 5.2 Stakeholder Value
+### 5.2 Recommendations
+- **Root cause analysis** for system performance decline: Assess teacher availability and quality, educational resources and infrastructure, particularly in remote regions; conduct surveys and interviews with teachers, parents, and students
+- **Targeted Resource Allocation:**
+    - Direct additional funding to underperforming schools, especially School #2;
+    - Prioritize remote regions for teacher recruitment and retention;
+    - Increase infrastructure investment in most remote schools
+- Implement **early intervention programs** for at-risk student demographics
+
+### 5.3 Stakeholder Value
 - **Data-Driven Decision Making:** School administrators and policymakers can make decisions with measurable impact on student outcomes
 - **Targeted Resource Allocation:** Dimensional analysis capabilities (slicing, dicing, drilling down) identify specific problem areas at granular level; enables early intervention programs for at-risk student demographics
 - **Stakeholder Transparency & Alignment:** Dashboard promotes transparency in educational performance trends; shared understanding of priorities and challenges
