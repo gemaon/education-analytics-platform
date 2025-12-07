@@ -7,7 +7,6 @@ Interactive dashboards enabling dimensional analysis of student performance acro
 
 **[performance-dashboards.pdf](performance-dashboards.pdf)**
 Complete dashboard export including performance visualizations, key insights, and strategic recommendations.
-![dashboards_screencapture.png](dashboards_screencapture.png)
 
 **[data-model-diagram.png](data-model-diagram.png)**
 Power BI data model showing dimensional structure and table relationships.
