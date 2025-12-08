@@ -124,11 +124,25 @@ Designed interactive Power BI dashboards enabling:
 - Strategic recommendations
 
 ## VII. Repository Structure
+
 ```
-📁 01-data-preparation/                    - Python cleaning scripts and notebooks
-📁 02-dashboards-and-insights/             - Power BI files and documentation  
+├── 01-data-preparation/
+│   ├── README.md
+│   ├── data-dictionary.pdf                          # Complete attribute documentation
+│   ├── data-quality-assessment.pdf                  # Data quality issues and cleaning approach
+│   ├── education-data-preparation.ipynb             # Python notebook (pandas, NumPy)
+│   └── sample-dataset-student-enrolments.csv        # Sample source data
+├── 02-dashboards-and-insights/
+│   ├── README.md
+│   └── [Power BI dashboard screenshots/files]
+└── README.md
 ```
 
 ---
 
-*This analytics solution demonstrates capabilities developed through BSAN7205: Business Analytics Foundations at the University of Queensland (2024)*
+## VIII. Project Context
+
+Completed as BSAN7205 (Business Analytics Foundations) at University of Queensland, demonstrating capabilities in Python data preparation, statistical analysis, and Power BI dashboard development applicable to commercial analytics and business intelligence roles.
+
+**Author**: Georgy Onishi  
+**Completion Date**: November 2024
