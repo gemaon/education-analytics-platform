@@ -1,6 +1,6 @@
 ## I. Executive Summary
 
-I developed a full analytics solution to track educational performance, from data cleaning and preparation to interactive visualisation. My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
+I developed a full analytics solution to track educational performance, from data cleaning and preparation (Python pandas, NumPy) to interactive visualisation (Power BI). My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
 
 Screen captures of my interactive dashboards (also available as a [PDF output](02-dashboards-and-insights/performance-dashboards.pdf)):
 ![dashboards screencap](02-dashboards-and-insights/dashboards_screencapture.png)
