@@ -1,11 +1,11 @@
-## I. Executive Summary
+## 1. Executive Summary
 
 I developed a full analytics solution to track educational performance, from data cleaning and preparation (Python pandas, NumPy) to interactive visualisation (Power BI). My platform lets administrators track student performance, identify trends, and make data-driven decisions for over 5,000 students across 11 schools over 7 years.
 
 Screen captures of my interactive dashboards (also available as a [PDF output](02-dashboards-and-insights/performance-dashboards.pdf)):
 ![dashboards screencap](02-dashboards-and-insights/dashboards_screencapture.png)
 
-## II. Project Workflow
+## 2. Project Workflow
 ```
 Raw Data Sources (11 CSV files)
     ↓
@@ -20,7 +20,7 @@ Power BI Dimensional Model & Dashboards
 Interactive Analysis & Insights
 ```
 
-## III: Data preparation
+## 3: Data preparation
 
 ### 3.1 Challenge
 Raw data contained multiple quality issues across 11 source files:
@@ -54,7 +54,7 @@ Implemented systematic data cleaning and transformation process:
 
 ---
 
-## IV: Business Intelligence Dashboards
+## 4: Business Intelligence Dashboards
 
 ### 4.1 Challenge
 Stakeholders needed to analyse performance across multiple dimensions:
@@ -83,7 +83,7 @@ Designed interactive Power BI dashboards enabling:
 
 ---
 
-## V. Business Impact
+## 5. Business Impact
 ### 5.1 Key Insights Generated
 - **Systemic Performance Decline:** General downward trend in test scores across all assessment types over time; decline most pronounced in remote regions
 - **Geographic Disparities:** Remote schools show significantly lower performance than urban counterparts; performance gap widening between geographic regions
@@ -123,7 +123,7 @@ Designed interactive Power BI dashboards enabling:
 - Professional documentation
 - Strategic recommendations
 
-## VII. Repository Structure
+## 6. Repository Structure
 
 ```
 ├── 01-data-preparation/
@@ -140,7 +140,7 @@ Designed interactive Power BI dashboards enabling:
 
 ---
 
-## VIII. Project Context
+## 7. Project Context
 
 Completed as BSAN7205 (Business Analytics Foundations) at University of Queensland, demonstrating capabilities in Python data preparation, statistical analysis, and Power BI dashboard development applicable to commercial analytics and business intelligence roles.
 
